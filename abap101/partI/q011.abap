@@ -1,6 +1,6 @@
 * QUESTAO 11 - Declare a table type of integers.
 
-REPORT zabap101_11 .
+REPORT zabap101_011 .
 
 TYPES: tabela_inteiros TYPE TABLE OF i .
 
