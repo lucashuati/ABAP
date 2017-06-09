@@ -1,7 +1,7 @@
 * QUESTAO 10 - Declare a structure containing all the fields mentioned in exercises 8 and 9. Check it using
 * the ABAP Debugger
 
-REPORT zabap101_10 .
+REPORT zabap101_010 .
 
 TYPES: BEGIN OF tipo_voo,
          carrid    TYPE sflight-carrid,
